@@ -8,6 +8,8 @@ public class DemoClass1 {
 		System.out.println("Creating conflict 2");
 		System.out.println("Good Morning");
 		System.out.println("conflict with branch shweta2");
+		System.out.println("Good Morning");
+		System.out.println("Started shweta2 branch");
 		
 
 	}
